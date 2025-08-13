@@ -5,8 +5,15 @@ Gelir, gider ve birikim hedeflerinizi takip edebilir, harcama dağılımlarını
 
 Proje, **Python GUI geliştirme, CSV veri depolama ve matplotlib ile veri görselleştirme** konularında kendimi geliştirmek amacıyla yapılmıştır.
 
-## Özellikler
-### Kullanıcı İşlemleri
+## Kullanılan Araçlar ve Kütüphanleler
+* **Python 3.**
+* **Tkinter** → Masaüstü arayüz
+* **CSV** → Veri depolama
+* **Matplotlib** → Harcama grafiği çizimi
+* **datetime** → Tarih/saat işlemleri
+* **os** → Dosya kontrol işlemleri
+
+## Kullanıcı İşlemleri
 * Kullanıcı kaydı ve giriş yapma
 
 * Gelir ekleme (miktar, sıklık)
@@ -20,14 +27,6 @@ Proje, **Python GUI geliştirme, CSV veri depolama ve matplotlib ile veri görse
 * Harcama dağılımını pasta grafiğinde görüntüleme
 
 * Çıkış yapma
-
-## Kullanılan Araçlar ve Kütüphanleler
-* **Python 3.**
-* **Tkinter** → Masaüstü arayüz
-* **CSV** → Veri depolama
-* **Matplotlib** → Harcama grafiği çizimi
-* **datetime** → Tarih/saat işlemleri
-* **os** → Dosya kontrol işlemleri
 
 ## Kurulum
 1. **Python yükleyin (3.8 veya üzeri)** 
