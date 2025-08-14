@@ -76,4 +76,4 @@ Eğer tkinter eksik ise:
 6. Harcama dağılımı matplotlib ile pasta grafiği olarak gösterilir.
 
 ## 📊 Örnek Çıktılar
-![Spending Figure](spending figure.png)
+![Spending Figure](/image/spending_figure.png)
